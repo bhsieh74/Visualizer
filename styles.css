@@ -12,3 +12,11 @@ audio {
     top: 0;
     left: 0;
 }
+
+img {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    height: 200px;
+    width: 200px;
+}
